@@ -2,11 +2,11 @@
 Created with Android Studio in my Mobile App Development class. Uses the camera, allows you to email pictures, and log the date sent
 
 <img
-  src="/Users/loganmichael/repos/Camera-and-Email-Utilization-App/images/CameraEmailApp1.png"
+  src="/images/CameraEmailApp1.png"
   alt="Image 1"
   title="Image 1"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-<img src="/Users/loganmichael/repos/Camera-and-Email-Utilization-App/images/CameraEmailApp2.png" alt="Image 1" title="Image">
+<img src="/images/CameraEmailApp2.png" alt="Image 2" title="Image 2">
 
-![](/Users/loganmichael/repos/Camera-and-Email-Utilization-App/images/CameraEmailApp1.png)
+![](/images/CameraEmailApp1.png)
