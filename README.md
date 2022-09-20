@@ -8,3 +8,5 @@ Created with Android Studio in my Mobile App Development class. Uses the camera,
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 <img src="/Users/loganmichael/repos/Camera-and-Email-Utilization-App/images/CameraEmailApp2.png" alt="Image 1" title="Image">
+
+![](/Users/loganmichael/repos/Camera-and-Email-Utilization-App/images/CameraEmailApp1.png)
